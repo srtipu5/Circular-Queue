@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\bin\Debug\net5.0\Circular Queue.exe
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\bin\Debug\net5.0\Circular Queue.deps.json
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\bin\Debug\net5.0\Circular Queue.runtimeconfig.json
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\bin\Debug\net5.0\Circular Queue.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\bin\Debug\net5.0\Circular Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\bin\Debug\net5.0\ref\Circular Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\bin\Debug\net5.0\Circular Queue.pdb
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\obj\Debug\net5.0\Circular Queue.csproj.AssemblyReference.cache
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\obj\Debug\net5.0\Circular Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\obj\Debug\net5.0\Circular Queue.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\obj\Debug\net5.0\Circular Queue.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\obj\Debug\net5.0\Circular Queue.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\obj\Debug\net5.0\Circular Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\obj\Debug\net5.0\ref\Circular Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\obj\Debug\net5.0\Circular Queue.pdb
+C:\Users\Tipu\Desktop\DataStructures\Circular Queue\Circular Queue\Circular Queue\obj\Debug\net5.0\Circular Queue.genruntimeconfig.cache
